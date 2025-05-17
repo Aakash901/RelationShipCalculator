@@ -43,27 +43,7 @@
 - Delete individual or all calculations
 - Swipe to remove entries
 - 
-### Project structure
-lib/
-│
-├── core/
-│   ├── constants/
-│   └── themes/
-│
-├── data/
-│   ├── models/
-│   └── repositories/
-│
-├── domain/
-│   ├── entities/
-│   └── usecases/
-│
-├── presentation/
-│   ├── bloc/
-│   ├── pages/
-│   └── widgets/
-│
-└── utils/
+
 
 ## 🔧 Installation
 
@@ -75,4 +55,4 @@ lib/
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/relcalc.git
+git clone https://github.com/Aakash901/RelationShipCalculator.git
